@@ -1,3 +1,2 @@
-exit()
 print ("hello world")
 
