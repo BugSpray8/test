@@ -1,2 +1,3 @@
+exit()
 print ("hello world")
 
